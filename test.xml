@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="file:////edc-filer1/busdev/PropPubProjects/Research Starters/Common Documents/CSS/CSS_Salem.css"?>
+<book xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" dtd-version="2.3" xml:lang="EN">
+   <book-series-meta>
+      <book-id pub-id-type="publisher-id">sp_ency_bio</book-id>
+   </book-series-meta>
+   <book-meta>
+      <book-id pub-id-type="publisher-id">brb_2014_rs</book-id>
+      <book-id pub-id-type="eis-mid">GY4Q</book-id>
+      <book-title-group>
+         <book-title>Salem Press Biographical Encyclopedia</book-title>
+         <alt-title alt-title-type="mid">GY4Q</alt-title>
+      </book-title-group>
+      <publisher>
+         <publisher-name>Salem Press</publisher-name>
+      </publisher>
+      <pub-date pub-type="reviewed">
+         <day>30</day>
+         <month>June</month>
+         <year>2017</year>
+      </pub-date>
+      <pub-date pub-type="original">
+         <day>30</day>
+         <month>November</month>
+         <year>2015</year>
+      </pub-date>
+   </book-meta>
+   <body>
+      <book-part book-part-type="chapter" id="BRB_2014_RS.10.3331.210137" indexed="true" xml:lang="EN" xlink:type="simple">
+         <book-part-meta>
+            <book-part-id pub-id-type="publisher-id">brb_2014_rs_210137</book-part-id>
+            <title-group>
+               <title>Mario Balotelli</title>
+            </title-group>
+            <contrib-group>
+               <contrib contrib-type="author" xlink:type="simple">
+                  <name name-style="western">
+                     <given-names>Joshua</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Pritchard</surname>
+                  </name>
+               </contrib>
+            </contrib-group>
+            <abstract abstract-type="placard">
+               <p>Soccer player. Mario Barwuah Balotelli was born Mario Barwuah in Palermo, Italy, on August 12, 1990. His biological parents, Thomas and Rose Barwuah, had immigrated to Italy from Ghana. The Barwuahs had three other children: son Enoch and daughters Abigail and Angel. As an infant, Balotelli suffered from serious intestinal problems. His condition was severe enough that doctors diagnosed it as life threatening, and he underwent a series of operations. His family struggled financially during his childhood, with Balotelliâ€™s father working long hours as a metalworker and spending much of his time away from home.</p>
+            </abstract>
+            <custom-meta-wrap>
+               <custom-meta xlink:type="simple">
+                  <meta-name>mfs AN</meta-name>
+                  <meta-value />
+               </custom-meta>
+               <custom-meta xlink:type="simple">
+                  <meta-name>project id</meta-name>
+                  <meta-value />
+               </custom-meta>
+               <custom-meta xlink:type="simple">
+                  <meta-name>Derived from</meta-name>
+                  <meta-value>10.3331/BRB_2014_0114</meta-value>
+               </custom-meta>
+               <custom-meta xlink:type="simple">
+                  <meta-name>mfs AN</meta-name>
+                  <meta-value>110955723</meta-value>
+               </custom-meta>
+               <custom-meta xlink:type="simple">
+                  <meta-name>project id</meta-name>
+                  <meta-value>737</meta-value>
+               </custom-meta>
+               <custom-meta>
+                  <meta-name>doctype</meta-name>
+                  <meta-value>ENCYC</meta-value>
+               </custom-meta>
+               <custom-meta>
+                  <meta-name>arttype</meta-name>
+                  <meta-value>Biography</meta-value>
+               </custom-meta>
+            </custom-meta-wrap>
+         </book-part-meta>
+         <book-front>
+            <sec sec-type="a_head" indexed="true">
+               <title />
+               <p>Soccer player</p>
+            </sec>
+            <sec sec-type="quickreference" indexed="true">
+               <title />
+               <list id="newa_4139" list-content="bio_meta">
+                  <list-item>
+                     <label>Born:</label>
+                     <p>August 12, 1990</p>
+                  </list-item>
+                  <list-item>
+                     <label>Birthplace:</label>
+                     <p>Palermo, Italy</p>
+                  </list-item>
+               </list>
+               <p>Soccer player</p>
+               <p>
+                  <bold>Also known as:</bold>
+                  Bad Mario; Mario Barwuah; Mario Barwuah Balotelli; Super Mario
+               </p>
+            </sec>
+         </book-front>
+         <body>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Background</title>
+               <p>Mario Barwuah Balotelli is the most fascinating man in world football. He was born Mario Barwuah in Palermo, Italy, on August 12, 1990. His biological parents, Thomas and Rose Barwuah, had immigrated to Italy from Ghana. The Barwuahs had three other children: son Enoch and daughters Abigail and Angel. As an infant, Balotelli suffered from serious intestinal problems. His condition was severe enough that doctors diagnosed it as life threatening, and he underwent a series of operations. His family struggled financially during his childhood, with Balotelliâ€™s father working long hours as a metalworker and spending much of his time away from home.</p>
+               <fig fig-type="elec_use" position="margin">
+                  <caption>
+                     <title>Ashley Cole and Mario Balotelli England-Italy Euro 2012</title>
+                     <p>Ashley Cole and Mario Balotelli England-Italy Euro 2012</p>
+                  </caption>
+                  <ext-link ext-link-type="db-image" xlink:href="110955723-110184.jpg" xlink:type="simple" />
+                  <permissions>
+                     <copyright-statement>Football.ua [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0), CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0) or GFDL (http://www.gnu.org/copyleft/fdl.html)], via Wikimedia Commons</copyright-statement>
+                  </permissions>
+               </fig>
+               <fig fig-type="elec_use" position="margin">
+                  <caption>
+                     <title>Balotelli wears the 2014 Italy Home Kit 02</title>
+                     <p>Mario Balotelli, 2013.</p>
+                  </caption>
+                  <ext-link ext-link-type="db-image" xlink:href="110955723-110329.jpg" xlink:type="simple" />
+                  <permissions>
+                     <copyright-statement>By Puma [CC BY 3.0 (http://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons</copyright-statement>
+                  </permissions>
+               </fig>
+               <p>As a result of his poor health and his familyâ€™s financial problems, Balotelli was put in the care of social services soon after his parents relocated to the town of Brescia. He was placed with foster parents Francesco and Silvia Balotelli, who lived north of Brescia in the town of Concesio. Balotelli remained with his foster parents for the rest of his childhood. The Barwuahs claim they made attempts to regain custody of their son in court but were unable to compete with the resources and reputation of the Balotellis. In 2008, Balotelli was officially granted Italian citizenship under his foster parentsâ€™ surname.</p>
+               <p>In July 2012, Balotelli's former girlfriend Raffaella Fico claimed she was pregnant with his child, while Balotelli responded by claiming he would only assume paternal responsibilities upon a positive paternity test. Fico's daughter Pia was born on 5 December 2012. In February 2014, Balotelli finally acknowledged paternity of his daughter Pia following a positive DNA test. In March 2013, Balotelli became engaged to wed his Belgian girlfriend, Fanny Neguesha. However, they split in September 2014. On 28 September 2017, Balotelli fathered a second child, a son named Lion, born to an unidentified woman.</p>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Soccer Career</title>
+               <p>Balotelli began playing soccer (known as football in Europe) at a very young age, practicing for hours at a time. He began playing organized soccer at the age of five. As a member of his parish team, he was grouped with older boys because of his skill at dribbling and passing. Balotelli was recruited by the club A.C. Lumezzane of Italyâ€™s Lega Pro Prima Divisione in 2001, at the age of eleven. He made his debut with the team as a fifteen-year-old in mid-2006.</p>
+               <p>During the summer of that year, Balotelli participated in a five-day camp in Barcelona for elite young players. Although he considered signing with a Spanish team, issues related to his official citizenship prevented him from pursuing negotiations. Balotelli signed with the Italian soccer club F.C. Internazionale in August 2006. He began playing with Allievi Nazionali, one of the clubâ€™s youth teams. As a teenager, Balotelli demonstrated his prolific goal-scoring abilities and earned subsequent promotions within the organization. As a member of the organizationâ€™s Primavera youth team, Balotelli helped his team win the 2007 Italian soccer championship and the 2008 Viareggio Cup.</p>
+               <p>Balotelli made his debut with Internazionaleâ€™s top-level Serie A squad, led by head coach Roberto Mancini, at seventeen. His performance in the Italian Cupâ€”which included two goals against the Turin-based team Juventusâ€”helped establish his reputation as a formidable talent. He scored his first goal as a member of the Italian under-twenty-one national team in September 2008.</p>
+               <p>In March 2009, crowds attending a match between Internazionale and Juventus greeted Balotelli with racist chants. Juventus chairman Giovanni Cobolli Gigli later admonished the spectators for their behavior, and the incident led the Juventus club to be fined and disciplined with a temporary partial stadium closure. Nevertheless, Balotelli continued to face racist taunts from fans of opposing squads throughout his career in the Italian league.</p>
+               <p>
+                  In August of the following year, Balotelli joined Manchester City of the English Premier League. At the time, the club was led by his former coach Mancini. Despite undergoing a minor knee surgery in September, Balotelli proved a useful addition to the team. He was awarded the sports newspaper
+                  <italic>Tuttosport</italic>
+                  â€™s Golden Boy award, given to the yearâ€™s most impressive young European player, in December 2010. Balotelli remained a valuable member of the team during the 2011â€“12 Premier League season, scoring thirteen goals and helping Manchester City win the Premier League championship.
+               </p>
+               <p>Balotelli faced disciplinary action in the 2012â€“13 season, missing a total of eleven games as a result of suspensions (he had previously been suspended while playing for Internazionale). On the pitch, Balotelli became known for arguing with referees and other players. His off-the-pitch indiscretions included a car accident, breaking curfew, firing air pistols in a public plaza, and spending time with individuals allegedly involved in organized crime.</p>
+               <p>In January 2013, Balotelli returned to Italian professional soccer, signing a lucrative agreement with A.C. Milan. On January 31, 2013, Balotelli was awarded the number 45 shirt, the same number he wore for Inter Milan and Manchester City. On 3 February 2013, Balotelli made his debut for Milan and scored two goals, including a last-minute penalty, to earn a 2–1 victory over Udinese. The win lifted Milan to fourth in the table, ahead of Inter Milan on goal difference. He scored twelve goals in thirteen games during the 2012–13 Serie A season and was named to the Serie A Team of the Year. During the 2013–14 Serie A season, Balotelli scored fourteen goals.</p>
+               <p>On 31, August 2014, Balotelli made his Liverpool debut in a league game away to Tottenham Hotspur. On 16 September 2014, Balotelli scored his first Liverpool goal opening a 2–1 Anfield victory against Ludogorets Razgrad in the group stage of the 2014–15 Union of European Football Associations [UEFA] Champions League. On 18 December 2014, he was suspended for one match and fined £25,000 for posting an image on social media which appeared to contain anti-Semitic and racist references. Balotelli's first Premier League goal for Liverpool came on his 13th appearance, on 10 February 2015, an 83rd-minute winner in a 3–2 victory over Tottenham Hotspur at Anfield, nine minutes after replacing Daniel Sturridge. He scored just 4 goals in 28 appearances and at season's end and was adjudged by many to be among the worst signings of the season.</p>
+               <p>On 27 August 2015, Balotelli returned to A.C. Milan on season-long loan deal.[113] On 22 September, he scored his first goal after returning to A.C. Milan on his third appearance to open the scoring in the fifth minute from a free kick at 25 yards out against Udinese in a 3–2 away win. On 27 September 2015, he was ruled out for three months after he suffered a groin injury in a 1-0 defeat to Genoa, requiring surgery. On 31 August 2016, Balotelli joined Nice of the French Ligue 1 on a free transfer, signing a one-year deal. He scored 29 goals in his 43 games for the team, and his contract was extended for one more year in June.</p>
+               <p>On 20 August 2018, Balotelli re-signed with Nice on a third consecutive one-year contract after a move to rivals Marseille fell through earlier in the summer. On 23 January 2019, Balotelli terminated his contract with Nice and signed a contract until the end of the season with Marseille. On 25 January, he made his debut for the club coming on as a substitute in the 74th minute home to Lille, later also scoring his first goal in the last minute of stoppage time of an ultimate 2–1 loss. He scored his fourth league goal on 3 March, an acrobatic volley in a 2–0 home win against Saint-Étienne. On 30 March, he became the first player since Josip Skoblar in the late 1960s to score in each of his first five home games for Marseille in Ligue 1.</p>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Impact</title>
+               <p>
+                  Throughout his career in professional soccer, Balotelli has helped call international attention to issues surrounding race relations in Italy. As one of the few black Italian soccer players to appear in major domestic and international tournaments, he was at times berated with racist taunts, including accusations that it is impossible to be both black and Italian. Nevertheless, Balotelli has persevered, stating that he is proud to be Italian and honored to represent his country on the pitch. He was included in
+                  <italic>Time</italic>
+                  magazineâ€™s list of the worldâ€™s hundred most influential people in 2013.
+               </p>
+            </sec>
+            <sec sec-type="hangindent" indexed="true">
+               <title>Bibliography</title>
+               <ref-list>
+                  <ref>
+                     <citation citation-type="booksimple" xlink:type="simple">
+                        Duff, Mark. "Italian Mafia Investigators to Approach Mario Balotelli."
+                        <italic>BBC News</italic>
+                        . BBC, 7 Sept. 2011. Web. 16 May 2014.
+                     </citation>
+                  </ref>
+                  <ref>
+                     <citation citation-type="booksimple" xlink:type="simple">
+                        Longman, JerÃ©. "Short-Fused and Explosive: Mario Balotelli, One of Soccerâ€™s Most Gifted and Eccentric Players."
+                        <italic>New York Times</italic>
+                        . New York Times, 30 June 2012. Web. 16 May 2014.
+                     </citation>
+                  </ref>
+                  <ref>
+                     <citation citation-type="booksimple" xlink:type="simple">
+                        Mabry, Marcus. "Can Balotelli Make Italy Less Racist?"
+                        <italic>New York Times</italic>
+                        . New York Times, 29 June 2012. Web. 16 May 2014.
+                     </citation>
+                  </ref>
+                  <ref>
+                     <citation citation-type="booksimple" xlink:type="simple">
+                        Mayer, Catherine, and Stephan Faris. "Why Always Mario?"
+                        <italic>Time</italic>
+                        . Time, 12 Nov. 2012. Web. 16 May 2014.
+                     </citation>
+                  </ref>
+                  <ref>
+                     <citation citation-type="booksimple" xlink:type="simple">
+                        Williamson, Laura, and Nick Pisa. "Mario Balotelliâ€™s Double Life: The Bitter Family Feud That Haunts the Â£29m Manchester City Target."
+                        <italic>Daily Mail</italic>
+                        . Associated Newspapers, 5 Aug. 2010. Web. 16 May 2014.
+                     </citation>
+                  </ref>
+               </ref-list>
+            </sec>
+            <sec sec-type="rs_citation" indexed="true">
+               <title />
+               <ref-list>
+                  <ref>
+                     <citation citation-type="original" xlink:type="simple">
+                        <article-title>Mario Balotelli</article-title>
+                        <source>Biography Reference Bank 2014</source>
+                        <year>2014</year>
+                        <publisher-name>Salem Press</publisher-name>
+                     </citation>
+                  </ref>
+               </ref-list>
+            </sec>
+         </body>
+      </book-part>
+   </body>
+</book>
